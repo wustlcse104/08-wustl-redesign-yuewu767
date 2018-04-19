@@ -31,7 +31,6 @@ margin-left: 100px;
 background-color: maroon;
 }
 #end{
-clear:both;
 overflow:auto;
 background-color:black;
 color:white;
@@ -68,12 +67,12 @@ color:white;
 text-decoration:none;}
 #content a:hover{
 color:grey;}
+#discovery{
+overflow:auto;}
 #discovery div{
 float:left;
 width:33%;
 }
-#discovery{
-overflow:auto;}
 #discovery1{
 margin-left:10px;}
 button{
@@ -81,9 +80,27 @@ font-family:"Arial Blcak",Gadget,sans-serif;
 font-size:20px;
 background-color:maroon;
 color:white;}
-#recentEvents div{
-float:left;
-width:33%;}
+
 #event1 a,#event2 a,#event3 a{
 color:maroon;
 text-decoration:none;}
+#mission h2{
+text-align: center;
+color:maroon;}
+#mission p{
+text-align:center;
+margin-left:30px;
+margin-right:30px;
+}
+#calendar th, td.center{
+text-align:center;}
+table, th, td{
+border: 1px solid black;}
+#tableLink{
+color:maroon;
+margin-left:20px;}
+#tableLink:hover{
+color:grey;}
+#content{
+margin-left:20px;}
+}
