@@ -81,9 +81,9 @@ font-family:"Arial Blcak",Gadget,sans-serif;
 font-size:20px;
 background-color:maroon;
 color:white;}
-/*#recentEvents div{
+#recentEvents div{
 float:left;
-width:33%;}*/
+width:33%;}
 #event1 a,#event2 a,#event3 a{
 color:maroon;
 text-decoration:none;}
