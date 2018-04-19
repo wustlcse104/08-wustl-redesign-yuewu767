@@ -1,0 +1,86 @@
+#schoolNameHead{
+background-color: black;
+}
+#schoolNameHead span{
+font-size: 40px;
+color:white;
+}
+#schoolLogo{
+margin-left: 30px;
+}
+#search{
+margin-left: 200px;
+}
+body{
+background-color:silver;
+}
+h1{
+font-family:"Times New Roman",Times,serif;
+letter-spacing:3px;
+margin-left: 100px;
+}
+#navigation a{
+    margin-left: 100px;
+    margin-top: 1px;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#navigation{
+background-color: maroon;
+}
+#end{
+overflow:auto;
+background-color:black;
+color:white;
+}
+
+div.column{
+margin-top:30px;
+margin-left:60px;
+margin-bottom:30px;
+float:left;
+width:25%;
+}
+#departments span{
+display: block;
+}
+#departments a{
+color:white;}
+#navigation a:hover{
+color:grey;}
+#end a:hover{
+color:grey;}
+#contact a{
+margin-left:5px;
+text-decoration:none;
+}
+span.tag{
+font-family:"Arial Blcak",Gadget,sans-serif;
+font-size:30px;
+color:white;
+background-color:maroon;
+}
+a.white{
+color:white;
+text-decoration:none;}
+#content a:hover{
+color:grey;}
+#discovery div{
+float:left;
+width:33%;
+}
+#discovery1{
+margin-left:10px;}
+button{
+font-family:"Arial Blcak",Gadget,sans-serif;
+font-size:20px;
+background-color:maroon;
+color:white;}
+/*#recentEvents div{
+float:left;
+width:33%;}*/
+#event1 a,#event2 a,#event3 a{
+color:maroon;
+text-decoration:none;}
